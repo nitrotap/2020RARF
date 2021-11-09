@@ -1,2 +1,2 @@
 # 2020RARF
- a brief, incomplete look at pesticide seed counts
+ a brief look at pesticide seed counts
